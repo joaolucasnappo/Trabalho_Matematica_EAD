@@ -1,0 +1,19 @@
+[project]
+name = "sistematizacao-sinais"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.2.6",
+    "scipy>=1.15.3",
+    "sympy>=1.14.0",
+    "wfdb>=4.3.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "nbconvert>=7.17.2",
+    "nbformat>=5.11.1",
+]
