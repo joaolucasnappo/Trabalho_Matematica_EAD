@@ -46,7 +46,7 @@ uv.lock                versões exatas das dependências
 ## Como executar
 
 **No Google Colab:** abra
-<https://colab.research.google.com/github/joaolucasnappo/Trabalho_Matematica_EAD/blob/main/sistematizacao.ipynb>
+<https://colab.research.google.com/github/joaolucasnappo/Trabalho_Matematica_EAD/blob/master/sistematizacao.ipynb>
 e use *Ambiente de execução → Executar tudo*. Os dados são baixados do PhysioNet automaticamente.
 
 **Localmente, com [uv](https://docs.astral.sh/uv/):**
