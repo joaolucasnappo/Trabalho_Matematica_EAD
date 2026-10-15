@@ -12,7 +12,7 @@ Sistematização da disciplina de Métodos Matemáticos: Séries de Fourier → 
 
 ## Vídeo de apresentação
 
-Link: _a inserir_
+Link: [_a inserir_](https://youtu.be/TR0KhKRmxJw)
 
 ## O que foi feito
 
